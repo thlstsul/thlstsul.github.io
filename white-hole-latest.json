@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "See the assets to download this version and install.",
+  "pub_date": "2025-09-25T12:46:19.938Z",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZTJBTXNwQUNjS1hUY1g3YS9hRU4wZTEyUFEvNmIzTzN5OXV5bXdnNGEwSk5heGVqUmhjeTFaNitGZGhJNERIejJ1WkowcXZHSllQOVJmdTRzYkNtYTYreXFNN0tKcGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4ODA0Mzc0CWZpbGU6d2hpdGUtaG9sZV8wLjEuMF9hbWQ2NC5BcHBJbWFnZQo4TUhiSHNpNHlWY3ZDUHE4QUFZQkptNkRIWnBwUWY2bWl2aDNGK3ZvdXQ3RzR6UlJmQkRZUUdra05id3hQZWgvSEhlRFlOY0hVa0c3VHA4Y2hOWDNBUT09Cg==",
+      "url": "https://github.com/thlstsul/white-hole/releases/download/v0.1.0/white-hole_0.1.0_amd64.AppImage"
+    }
+  }
+}
