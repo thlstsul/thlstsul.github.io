@@ -1,11 +1,15 @@
 {
   "version": "0.1.0",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2025-09-25T12:46:19.938Z",
+  "pub_date": "2025-09-29T07:20:35.850Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZTJBTXNwQUNjS1hUY1g3YS9hRU4wZTEyUFEvNmIzTzN5OXV5bXdnNGEwSk5heGVqUmhjeTFaNitGZGhJNERIejJ1WkowcXZHSllQOVJmdTRzYkNtYTYreXFNN0tKcGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4ODA0Mzc0CWZpbGU6d2hpdGUtaG9sZV8wLjEuMF9hbWQ2NC5BcHBJbWFnZQo4TUhiSHNpNHlWY3ZDUHE4QUFZQkptNkRIWnBwUWY2bWl2aDNGK3ZvdXQ3RzR6UlJmQkRZUUdra05id3hQZWgvSEhlRFlOY0hVa0c3VHA4Y2hOWDNBUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZTJBTXNwQUNjS1kzMitsZnFoVSt5Z0g0a3lxcHVFYjJLcVJGOHJjeGhxUlIyeE0xcFhEU1VERXhLa1UrcjViS2dVMzVYTlNrcU1maGFkQldlTzRtSkdrVWtKalNWQkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MTI5NzY0CWZpbGU6d2hpdGUtaG9sZV8wLjEuMF9hbWQ2NC5BcHBJbWFnZQplY1dQNXI5WEtJdEJmTjhuRE41QjI0a3Y5Mko1aThQeGt3dkJFUUVnSUsrWnZ3ZkRTYUpFdGtPWmlKajlYWHpvUHlLQ3ZsZXFiNXZsdTZZc2plQkxCQT09Cg==",
       "url": "https://github.com/thlstsul/white-hole/releases/download/v0.1.0/white-hole_0.1.0_amd64.AppImage"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZTJBTXNwQUNjS1pmeEhqVVdHd2FMYitlY1MyV2EyTCtEOHlrODJwb2psTDJzWE9Ec2YxaEplblVDeFR2V3o5YzhpcWt3eDJYVDgyOVk1TVVFQU42OGlMMjZ0dnZ4VlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MTMwNDMyCWZpbGU6d2hpdGUtaG9sZV8wLjEuMF94NjRfemgtQ04ubXNpCjZwQlppV3owNHlEeWVzR3dnV2pLMUxpbW9rY2t0QUlHWkFLRkRMQUJMdGJ5UUM5U0g5aXdGOGhHZTE5UEgxZ2FqNkRTMHovQ2x1VHgvKzkzWmNCUUJ3PT0K",
+      "url": "https://github.com/thlstsul/white-hole/releases/download/v0.1.0/white-hole_0.1.0_x64_zh-CN.msi"
     }
   }
 }
