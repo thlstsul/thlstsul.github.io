@@ -1,15 +1,15 @@
 {
   "version": "0.1.2",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2025-10-04T17:20:10.000Z",
+  "pub_date": "2025-10-07T16:27:37.728Z",
   "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZTJBTXNwQUNjS1Jaay9qdlB2cWk2eUk1WXREWTRKUEQ0L0gvbWpOUUQvL3hmMWVKUDdYaVZidkw4VVNWaTFrTi9HUzJJZzg1MkJ3RWw1c0JuVXRsNmN4eFhrWmF4ZmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5NTk4MTYxCWZpbGU6d2hpdGUtaG9sZV8wLjEuMl94NjRfemgtQ04ubXNpCjBEejRqUDVHbWhJVGRtdmpXZnRHM1d3TlNpNW9pbFBrVEU3M05IODlYMkxPRFRaeDUzTjdNRENsenpzbVB3L0NoaDlOZkJCZWdWUHVyWWdFdUZ2cEJnPT0K",
-      "url": "https://github.com/thlstsul/white-hole/releases/download/v0.1.2/white-hole_0.1.2_x64_zh-CN.msi"
-    },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZTJBTXNwQUNjS1lHWWMzcGRhTTdLM3hPTExzeFZjM01DelRWdGg4Y0VRSXZwT0VVU2FheEx1bUZ3VTF5Tk53ZGtnakhUQlRKMFd6WVkvWWlvaGNrdCtzcllxV3ZOOVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5NTk4NDAzCWZpbGU6d2hpdGUtaG9sZV8wLjEuMl9hbWQ2NC5BcHBJbWFnZQpIK2lMUW5pM0xadnZPbjBYUERyaGtjcGVWTjZMWXh2TktsSEVmUTVBcm5ESHY0SHFjVjl0SGZjQnF5YVluOG4zTEVDSzdPMmJuaStQayt0Ulphem1Bdz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZTJBTXNwQUNjS1lkcVRxbndBM2p2WFZ0SjZSd3RjZDhydFBsR0N3R1lSQjlacjh4a3ZvQVluYmVJYzlVRnhqVzRtTnhTOW4rUFRNRVc4UXh4TklrcTNkdjRyQ2dUc1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5ODU0Mjk4CWZpbGU6d2hpdGUtaG9sZV8wLjEuMl9hbWQ2NC5BcHBJbWFnZQpYYU9SNGk0aEk4SFNtNHZsR0t1cXVoL2xqeUtOcTJOWHk1cEE0d2hxRjJIZnBUWDdKSTBGbGdZUTNJQWwwYjgxVXhmUnlnRWJ0aTM3aUVXK2VBallDZz09Cg==",
       "url": "https://github.com/thlstsul/white-hole/releases/download/v0.1.2/white-hole_0.1.2_amd64.AppImage"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZTJBTXNwQUNjS1ZuWHVQUlRycXlYTTk3Z0IreU01Y3dlUkY1M3RLeUJmSDRwT3J4VlNUbnVjUXFWQWZVU05PaUY2UVBLSkhGRkhYWFNBSktUVzdJK3VDOEVNVjV0RncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5ODU0NDUzCWZpbGU6d2hpdGUtaG9sZV8wLjEuMl94NjRfemgtQ04ubXNpCk5GUUEwR1lsV2QvUjFkY3hybHJUb1o5a2dST1Z1VVp2WFZjZDlmZ1Zvd1V6a08yOU5wUHZ0WDFBcWw5THdydEljRmg3eWh2a0hqTlB4TTg3VStTeUR3PT0K",
+      "url": "https://github.com/thlstsul/white-hole/releases/download/v0.1.2/white-hole_0.1.2_x64_zh-CN.msi"
     }
   }
 }
