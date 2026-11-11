@@ -1,35 +1,35 @@
 {
-  "version": "0.3.0",
+  "version": "0.5.0",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2026-04-26T07:44:44.651Z",
+  "pub_date": "2026-11-11T07:33:54.260Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZTJBTXNwQUNjS2FvRDlGQ09uazVESVRZUnh3OURjdjBOMXVUblhiSHpNQzRDcGxYTzRIaXpqK0VWL01mKyttY1pHNTBUQ2dXemYzUUxoZ1llMFY5SSt4aGVzemovd2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTg5MTkzCWZpbGU6d2hpdGUtaG9sZV8wLjMuMF9hbWQ2NC5BcHBJbWFnZQpHS2xkVDEyQVRPUE5GM3lhSlcvazhzUHRYbnRON01aalNrZ3ZMZ1dSZUN1UmxFTW0yQktDWnoxNWVRUExQMlcrdllXVDhpbVlZbUVFYmQyVUhzT21CUT09Cg==",
-      "url": "https://github.com/thlstsul/white-hole/releases/download/v0.3.0/white-hole_0.3.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZTJBTXNwQUNjS1gyZ05CZElmaWpKZWUxOE5Tb2tBakoxSm1nb3l4b29rWS84NTVFbWRxWUxtdXBGVml6RHJHT1FzbFZTbGorQnRDM2VIUFBjVXdBMndwNTk4d3padndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzgxODYzCWZpbGU6d2hpdGUtaG9sZV8wLjUuMF9hbWQ2NC5BcHBJbWFnZQl2ZXJzaW9uOjAuNS4wCmFiNnlLa3ZSVmo1REwvWllGeVVDdU16azMwUjh1Znc5bW9wb21IR3RPdFc4Q1VnUjFGRXBCZjRSdEV0cDdvK3JvdG1hZ05ud2svdXFXdUZrVVBtMkN3PT0K",
+      "url": "https://api.github.com/repos/thlstsul/white-hole/releases/assets/734566931"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZTJBTXNwQUNjS2FvRDlGQ09uazVESVRZUnh3OURjdjBOMXVUblhiSHpNQzRDcGxYTzRIaXpqK0VWL01mKyttY1pHNTBUQ2dXemYzUUxoZ1llMFY5SSt4aGVzemovd2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTg5MTkzCWZpbGU6d2hpdGUtaG9sZV8wLjMuMF9hbWQ2NC5BcHBJbWFnZQpHS2xkVDEyQVRPUE5GM3lhSlcvazhzUHRYbnRON01aalNrZ3ZMZ1dSZUN1UmxFTW0yQktDWnoxNWVRUExQMlcrdllXVDhpbVlZbUVFYmQyVUhzT21CUT09Cg==",
-      "url": "https://github.com/thlstsul/white-hole/releases/download/v0.3.0/white-hole_0.3.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZTJBTXNwQUNjS1gyZ05CZElmaWpKZWUxOE5Tb2tBakoxSm1nb3l4b29rWS84NTVFbWRxWUxtdXBGVml6RHJHT1FzbFZTbGorQnRDM2VIUFBjVXdBMndwNTk4d3padndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzgxODYzCWZpbGU6d2hpdGUtaG9sZV8wLjUuMF9hbWQ2NC5BcHBJbWFnZQl2ZXJzaW9uOjAuNS4wCmFiNnlLa3ZSVmo1REwvWllGeVVDdU16azMwUjh1Znc5bW9wb21IR3RPdFc4Q1VnUjFGRXBCZjRSdEV0cDdvK3JvdG1hZ05ud2svdXFXdUZrVVBtMkN3PT0K",
+      "url": "https://api.github.com/repos/thlstsul/white-hole/releases/assets/734566931"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZTJBTXNwQUNjS1J6OTN3Uk9rb2lmRENTdmVZZzBBRE5CTHByRVF6QXk0aEJPZUpKTHVBK0x4MEwyMDNmVDJpTjhHYmFGRDFUVHBpNlBNSnRweURpT2tBcSsxejFSOUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTg5MTkzCWZpbGU6d2hpdGUtaG9sZV8wLjMuMF9hbWQ2NC5kZWIKSzRNVElyNVdyM0NGU1FuVGRtRkYrNmQ5OHNzaGZreE5DcGlNVm1oT3NrWkNkZlRHQ2JvMEVhak55MjFuTkxzbG9yY1JXMUREbzd1UkZpRUtLWHBBQ3c9PQo=",
-      "url": "https://github.com/thlstsul/white-hole/releases/download/v0.3.0/white-hole_0.3.0_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZTJBTXNwQUNjS1hGL2J3eVZLZjY3U2F4WnErdHNCMkJEcFJ5OE9jRFh6cjNlOURZUTVReU9kOWtNcUdvMmRTZk1sS1QxU0JBTWV3RDNWV2dKT1Q0ZmU4RG84WjZtZUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzgxODYzCWZpbGU6d2hpdGUtaG9sZV8wLjUuMF9hbWQ2NC5kZWIJdmVyc2lvbjowLjUuMApEU2s3Vjg4QmkwN21YWDdZRkp2a1huSTN3STRDcUVkcXNKTy8vVWtSSkloZ2NGWm0zV0F3RTlzUFZPZ3hYMFlDak5NR3ZXSlNhRU1jQ213Ui90MW9Bdz09Cg==",
+      "url": "https://api.github.com/repos/thlstsul/white-hole/releases/assets/734566811"
     },
     "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZTJBTXNwQUNjS2R3TWNzMm1UckF1TVRtR2xVdkdGamV2V2VQSzd4ZWx0Z2ZyOGxDSG5RRWR4N21qUEZ4Ujd3bW1GVy84RlVxZ3R2a2NHUHhoRU9EYU1Yb1BaQURmeGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTg5MTkzCWZpbGU6d2hpdGUtaG9sZS0wLjMuMC0xLng4Nl82NC5ycG0KZENUSnJWbCs2Z0RLK0oyN3VucUJYakRPNW40WjMxWkV5MzZvSzlTdGp2Umhyb0dqSHlrM0JEVnpycEJnUDNLK2V0ZVZSZVFjNVFvSmJkaXJnOE9yQmc9PQo=",
-      "url": "https://github.com/thlstsul/white-hole/releases/download/v0.3.0/white-hole-0.3.0-1.x86_64.rpm"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZTJBTXNwQUNjS1cvdE9iNHhzOVVuU2V5eTZjcW5tYzdDMTljZlVrNlhpVXZBTEZMRmlTL0l1MDJoUVhMWVB2ZlZIZUU1TW5TbEFPY0JwTXoxcmY0Q3VjeWo1cFdmSkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzgxODYzCWZpbGU6d2hpdGUtaG9sZS0wLjUuMC0xLng4Nl82NC5ycG0JdmVyc2lvbjowLjUuMApGUzRDTW9vMEtnbEpYZXI2RjlLbXNmNHg2b2JicitQK1JHRHZiYmE0NEJPWG45VDdUbTdwSFNid0NGdlI2OHhoY1JVQ3RvcEtoSnY3YXRGZXZ6NS9CQT09Cg==",
+      "url": "https://api.github.com/repos/thlstsul/white-hole/releases/assets/734566876"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZTJBTXNwQUNjS2VHK1JnWlhSUzZySnpSeTBPRENaUzFCQ1VabTNuTGRVUU5aZnAwZ2ZMRmNocGFjWnFvZ09kVUJHZytUaTdPaTVzYTN5N1dGdGZ6c3BKdThyMUVzZkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTg5NDgxCWZpbGU6d2hpdGUtaG9sZV8wLjMuMF94NjRfemgtQ04ubXNpCmc1emc0RXlRRk45UVJZOTZMcWlTTGJrcXFFa3U2VnNLQ2QreWVJc29ET250S1Zjb0RMcWMxaSttU2ZmR20rS004aXk3WG5oY1E4QTJmQ2xMVnBKdUR3PT0K",
-      "url": "https://github.com/thlstsul/white-hole/releases/download/v0.3.0/white-hole_0.3.0_x64_zh-CN.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZTJBTXNwQUNjS1UyQ1ZBcld1VmcyWHg2WFJIK3pyS0ljRkFIdURTVndSV1NrVHJ4R09tR1RRL0tuNm5vOVlNOXpSZk1lQmdzRUJQUjU4Q2pMdGxlYVROSi9GNGZ4M1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzgyNDMwCWZpbGU6d2hpdGUtaG9sZV8wLjUuMF94NjRfemgtQ04ubXNpCXZlcnNpb246MC41LjAKa0s1ZTVGYUZadVVYMEFuN0ZOeGFQVjhxd2Z1M2x3K1ZUemMrQTRQUEo3WGVaclMyTE1VVWdsdVZINXViaSthMU5yWE5IOG5RcjBCc2Eyc2cyNk5KREE9PQo=",
+      "url": "https://api.github.com/repos/thlstsul/white-hole/releases/assets/734591059"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZTJBTXNwQUNjS2VHK1JnWlhSUzZySnpSeTBPRENaUzFCQ1VabTNuTGRVUU5aZnAwZ2ZMRmNocGFjWnFvZ09kVUJHZytUaTdPaTVzYTN5N1dGdGZ6c3BKdThyMUVzZkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTg5NDgxCWZpbGU6d2hpdGUtaG9sZV8wLjMuMF94NjRfemgtQ04ubXNpCmc1emc0RXlRRk45UVJZOTZMcWlTTGJrcXFFa3U2VnNLQ2QreWVJc29ET250S1Zjb0RMcWMxaSttU2ZmR20rS004aXk3WG5oY1E4QTJmQ2xMVnBKdUR3PT0K",
-      "url": "https://github.com/thlstsul/white-hole/releases/download/v0.3.0/white-hole_0.3.0_x64_zh-CN.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZTJBTXNwQUNjS1UyQ1ZBcld1VmcyWHg2WFJIK3pyS0ljRkFIdURTVndSV1NrVHJ4R09tR1RRL0tuNm5vOVlNOXpSZk1lQmdzRUJQUjU4Q2pMdGxlYVROSi9GNGZ4M1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzgyNDMwCWZpbGU6d2hpdGUtaG9sZV8wLjUuMF94NjRfemgtQ04ubXNpCXZlcnNpb246MC41LjAKa0s1ZTVGYUZadVVYMEFuN0ZOeGFQVjhxd2Z1M2x3K1ZUemMrQTRQUEo3WGVaclMyTE1VVWdsdVZINXViaSthMU5yWE5IOG5RcjBCc2Eyc2cyNk5KREE9PQo=",
+      "url": "https://api.github.com/repos/thlstsul/white-hole/releases/assets/734591059"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZTJBTXNwQUNjS1MwREpOaHFSUDF1OHd0OWtqbHRsOWFDSkFVM1VVVVU2ZzBQc1hYNHVIb3Q0QUlDcjVOcmJ4YWY2NU94bVVVN1Fubm90dHpmdDRqd0U5VTBLUXlHcHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTg5NDgxCWZpbGU6d2hpdGUtaG9sZV8wLjMuMF94NjQtc2V0dXAuZXhlClNPSGU3SGpZbzdhUENFNkpzK2djR2hqYVRHR04yQlFFdVpwZUFWeXMwb2FXcEh6S1BGdHNmS3E3NkNCZnNNQXFRbFdnNTZzUVdSSHF6cEFab3NFdUJBPT0K",
-      "url": "https://github.com/thlstsul/white-hole/releases/download/v0.3.0/white-hole_0.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZTJBTXNwQUNjS1k2T1RhRmRFYXZrRy9PM0FVTGJjenVoMFpTa3FacWp5VGx2M0lBVFJPNWhtcGpNcFB4ZHUzbkRINUVvS2ZxNmlvc292bXVmTk5BOEFBQmdIb2lobVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzgyNDMwCWZpbGU6d2hpdGUtaG9sZV8wLjUuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC41LjAKQ2tWZ0ZWZElsVVplRzVTeTBvYWEwdGxRSkZnYkk1L0R0dnZHL212VUttRkdyN0lVbHVKKytMak01cHQ3cGVMZDJmUVJFUTBabWpEakdTVVYra3lkRFE9PQo=",
+      "url": "https://api.github.com/repos/thlstsul/white-hole/releases/assets/734591124"
     }
   }
 }
